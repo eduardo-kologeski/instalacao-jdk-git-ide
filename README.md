@@ -1,6 +1,9 @@
 # Dominando IDEs Java
 WINDOWS
+
 🔺 Instalação JDK Zulu
+--------------------------------------------------------------------------------------------------------
+
 Aqui no windows, vamos fazer o download do OpenJDK Zulu. As compilações do Azul Zulu do OpenJDK são compilações de código aberto, testadas pelo TCK e certificadas do OpenJDK. O Zulu Blue está disponível para uma ampla variedade de plataformas de hardware e sistemas operacionais. A documentação do Azul Zulu inclui notas de lançamento, um guia de instalação e licenças de terceiros.
 
 🔹 1. Entre no [SITE AZUL](https://www.azul.com/downloads/?package=jdk#zulu)
@@ -42,8 +45,9 @@ Aqui no windows, vamos fazer o download do OpenJDK Zulu. As compilações do Azu
 java -version
 Créditos: DevSuperior
 
-
 🔺 Instalação Eclipse
+--------------------------------------------------------------------------------------------------------
+
 🔹 1. Acessar o site oficial do [ECLIPSE](https://www.eclipse.org/downloads/)
 
 🔹 2. Fazer o download do instalador
@@ -64,6 +68,7 @@ Créditos: DevSuperior
 
 
 🔺 Instalação IntelliJ IDEA Community
+--------------------------------------------------------------------------------------------------------
 🔹 1. Entre no site ofical do [INTELLIJ](https://www.jetbrains.com/idea/download/#section=windows)
 
 🔹 2. Escolha a opção Community e faça o download
@@ -86,6 +91,7 @@ Créditos: DevSuperior
 
 
 🔺 Instalação Git
+--------------------------------------------------------------------------------------------------------
 🔹 1. Entre no site ofical do [GIT](https://git-scm.com/downloads)
 
 🔹 2. Escolha a opção Windows e o instalador será baixado automáticamente
@@ -115,9 +121,6 @@ git config --global user.email seuemail@email.br
 
 git config --list
 🔹10. Pronto, git instalado e configurado com sucesso!
-
-
-
 
 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
