@@ -120,6 +120,7 @@ git config --global user.email seuemail@email.br
 ​ 9.3 Vamos conferir a lista de configurações:
 
 git config --list
+
 🔹10. Pronto, git instalado e configurado com sucesso!
 
 🤝 Contribuindo
